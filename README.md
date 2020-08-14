@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Zoltan Galaz][website]
+# Hi there 👋 I'm [Zoltan Galaz][website]
 
 <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/banner.jpg?raw=true" alt="Wonderful time at Kosice">
 
