@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Zoltán Galáž][website]
+# Hi there 👋 I'm [Zoltán Galáž][website]
 
 [<img align="left" alt="zoltan.galaz.eu" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Zoltan Galaz | Facebook" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Facebook.svg" />][facebook]
