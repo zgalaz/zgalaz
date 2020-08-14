@@ -1,6 +1,4 @@
-# Hi there 👋 I'm [Zoltan Galaz][website]
-
-<img src="https://github.com/zgalaz/zgalaz/blob/master/banner/banner.jpg?raw=true" alt="Wonderful time at Kosice">
+## Hi there 👋 I'm [Zoltán Galáž][website]
 
 #### I'm an Ai engineer, data scientist, and researcher passionate about machine learning, programming and signal processing.
 
@@ -10,6 +8,16 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 
 - 📘 Check out my [Resumé][cv]
 - 📕 Check out my [list of selected publications][selected_publications]
+
+#### Some nice photos from the latest trips since code is not everything right?
+<details>
+  <summary> Photo from the trip to "Košice!</summary>
+  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_kosice.jpg?raw=true" alt="Wonderful time at Kosice">
+</details>
+<details>
+  <summary> Photo from the hike to "Batizovské Pleso"</summary>
+  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_batizovske_pleso.jpg?raw=true" alt="Wonderful time at Kosice">
+</details>
 
 ---
 
