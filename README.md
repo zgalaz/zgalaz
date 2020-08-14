@@ -9,16 +9,6 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 - 📘 Check out my [Resumé][cv]
 - 📕 Check out my [list of selected publications][selected_publications]
 
-#### Some nice photos from the latest trips since code is not everything right?
-<details>
-  <summary> Photo from the trip to "Košice!</summary>
-  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_kosice.jpg?raw=true" alt="Wonderful time at Kosice">
-</details>
-<details>
-  <summary> Photo from the hike to "Batizovské Pleso"</summary>
-  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_batizovske_pleso.jpg?raw=true" alt="Wonderful time at Kosice">
-</details>
-
 ---
 
 ### Let me present you my work:
@@ -28,7 +18,7 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 
 ---
 
-### My programming languages workbench:
+### My programming workbench:
 [<img align="left" alt="Python" width="34px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />][python_website]
 [<img align="left" alt="Java" width="20px" src="https://seeklogo.com/images/J/java-logo-A5A6D66CD2-seeklogo.com.png" />][java_website]
 [<img align="left" alt="HTML" width="26px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />][html_website]
@@ -53,7 +43,7 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 
 ---
 
-### And finally, where to find me:
+### Where to find me:
 
 [<img align="left" alt="zoltan.galaz.eu" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Zoltan Galaz | Facebook" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Facebook.svg" />][facebook]
@@ -62,6 +52,20 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 [<img align="left" alt="Zoltan Galaz | ResearchGate" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/ResearchGate.svg" />][researchgate]
 [<img align="left" alt="Zoltan Galaz | GoogleScholar" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/GoogleScholar.svg" />][google_scholar]
 [<img align="left" alt="Zoltan Galaz | ORCID" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Orcid.svg" />][orcid]
+
+<br />
+
+---
+
+### And finally, some nice photos to enjoy:
+<details>
+  <summary> Photo from the trip to "Košice!</summary>
+  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_kosice.jpg?raw=true" alt="Wonderful time at Kosice">
+</details>
+<details>
+  <summary> Photo from the hike to "Batizovské Pleso"</summary>
+  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_batizovske_pleso.jpg?raw=true" alt="Wonderful time at Kosice">
+</details>
 
 
 [website]: http://zoltan.galaz.eu
