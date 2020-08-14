@@ -26,8 +26,6 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 - 🎓 I'm a leading researcher at [Brain Diseases Analysis Laboratory][bdalab_website]
 - 🌱 I'm a co-founder of [ACAI.AI][acai_website]
 
----
-
 ### My programming workbench:
 [<img align="left" alt="Python" width="34px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />][python_website]
 [<img align="left" alt="Java" width="20px" src="https://seeklogo.com/images/J/java-logo-A5A6D66CD2-seeklogo.com.png" />][java_website]
