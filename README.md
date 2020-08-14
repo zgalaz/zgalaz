@@ -1,13 +1,15 @@
 ## Hi there 👋 I'm [Zoltan Galaz][website]
 
-#### I'm an Ai engineer, data scientist, and researcher pasionate about machine learning, programming and signal processing.
+<img src="https://github.com/zgalaz/zgalaz/blob/master/banner/banner.jpg?raw=true" alt="Wonderful time at Kosice">
+
+#### I'm an Ai engineer, data scientist, and researcher passionate about machine learning, programming and signal processing.
 
 I finished my doctoral degree in digital signal processing and informatics at the Brno University of Technology in 2018. Since 2014 I have been working at Brain Diseases Analysis Laboratory where I became excited about advanced signal processing and machine learning applied in the field of neurosciences. Since 2017 I have also been working at Inventurist.ai where I discovered the beauty of natural language processing and AI/data driven product development.
 
 Besides my professional career, I love bouldering, snowboarding, traveling, playing guitar, reading, computer games from time to time, and many other things. Few years ago, I founded my Dragon Boat team Drakkar and we have been attending competitions around Slovakia every year with success. In the future, I plan to travel with my wife as we both love visiting new interesting places with rich culture, history and great local food (well, and beer in my case).
 
-- 📘 [Resumé][cv]
-- 📕 [Selected publications][selected_publications]
+- 📘 Check out my [Resumé][cv]
+- 📕 Check out my [list of selected publications][selected_publications]
 
 ---
 
