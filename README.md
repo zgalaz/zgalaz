@@ -46,21 +46,21 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 ### And finally, where to find me:
 
 [<img align="left" alt="zoltan.galaz.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Zoltan Galaz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Zoltan Galaz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Zoltan Galaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Zoltan Galaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Zoltan Galaz | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/researchgate.svg" />][researchgate]
-[<img align="left" alt="Zoltan Galaz | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googlescholar.svg" />][google_scholar]
+[<img align="left" alt="Zoltan Galaz | Facebook" width="22px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Facebook.svg" />][facebook]
+[<img align="left" alt="Zoltan Galaz | Instagram" width="22px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Instagram.svg" />][instagram]
+[<img align="left" alt="Zoltan Galaz | LinkedIn" width="22px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Linkedin.svg" />][linkedin]
+[<img align="left" alt="Zoltan Galaz | ResearchGate" width="22px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/ResearchGate.svg" />][researchgate]
+[<img align="left" alt="Zoltan Galaz | GoogleScholar" width="22px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/GoogleScholar.svg" />][google_scholar]
+[<img align="left" alt="Zoltan Galaz | ORCID" width="22px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Orcid.svg" />][orcid]
 
 
 [website]: http://zoltan.galaz.eu
 [facebook]: https://www.facebook.com/galaz.zoltan
-[youtube]: https://www.youtube.com/watch?v=_4Jo8mmdhxw&t=2s
 [instagram]: https://www.instagram.com/zoltangalaz
 [linkedin]: https://www.linkedin.com/in/zoltan-galaz
 [google_scholar]: https://scholar.google.sk/citations?user=d0_ryhwAAAAJ&hl=cs
 [researchgate]: https://www.researchgate.net/profile/Zoltan_Galaz
+[orcid]: https://orcid.org/0000-0002-8978-351X
 
 [cv]: http://zoltan.galaz.eu/media/zoltan_galaz_cv_en.pdf
 [selected_publications]: http://zoltan.galaz.eu/media/zoltan_galaz_publications_en.pdf
