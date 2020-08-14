@@ -1,5 +1,15 @@
 ## Hi there 👋 I'm [Zoltán Galáž][website]
 
+[<img align="left" alt="zoltan.galaz.eu" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Zoltan Galaz | Facebook" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Facebook.svg" />][facebook]
+[<img align="left" alt="Zoltan Galaz | Instagram" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Instagram.svg" />][instagram]
+[<img align="left" alt="Zoltan Galaz | LinkedIn" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Linkedin.svg" />][linkedin]
+[<img align="left" alt="Zoltan Galaz | ResearchGate" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/ResearchGate.svg" />][researchgate]
+[<img align="left" alt="Zoltan Galaz | GoogleScholar" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/GoogleScholar.svg" />][google_scholar]
+[<img align="left" alt="Zoltan Galaz | ORCID" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Orcid.svg" />][orcid]
+
+<br />
+
 #### I'm an Ai engineer, data scientist, and researcher passionate about machine learning, programming and signal processing.
 
 I finished my doctoral degree in digital signal processing and informatics at the Brno University of Technology in 2018. Since 2014 I have been working at Brain Diseases Analysis Laboratory where I became excited about advanced signal processing and machine learning applied in the field of neurosciences. Since 2017 I have also been working at Inventurist.ai where I discovered the beauty of natural language processing and AI/data driven product development.
@@ -38,20 +48,6 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 [<img align="left" alt="Keras" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" />][keras_website]
 [<img align="left" alt="Elasticsearch" height="28px" src="https://iconape.com/wp-content/files/op/370830/svg/370830.svg" />][elasticsearch_website]
 [<img align="left" alt="Jupyter" height="32px" src="https://iconape.com/wp-content/files/si/370990/svg/370990.svg" />][jupyter_website]
-
-<br />
-
----
-
-### Where to find me:
-
-[<img align="left" alt="zoltan.galaz.eu" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Zoltan Galaz | Facebook" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Facebook.svg" />][facebook]
-[<img align="left" alt="Zoltan Galaz | Instagram" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Instagram.svg" />][instagram]
-[<img align="left" alt="Zoltan Galaz | LinkedIn" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Linkedin.svg" />][linkedin]
-[<img align="left" alt="Zoltan Galaz | ResearchGate" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/ResearchGate.svg" />][researchgate]
-[<img align="left" alt="Zoltan Galaz | GoogleScholar" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/GoogleScholar.svg" />][google_scholar]
-[<img align="left" alt="Zoltan Galaz | ORCID" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Orcid.svg" />][orcid]
 
 <br />
 
