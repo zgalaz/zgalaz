@@ -28,7 +28,7 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 <br />
 <br />
 
-### My Data science workbench:
+### My data science workbench:
 [<img align="left" alt="Numpy" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" />][numpy_website]
 [<img align="left" alt="Pandas" height="32px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />][pandas_website]
 [<img align="left" alt="Scipy" height="28px" src="https://www.fullstackpython.com/img/logos/scipy.png" />][scipy_website]
