@@ -62,7 +62,7 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 </details>
 
 
-[website]: http://zoltan.galaz.eu
+[website]: https://www.zoltan.galaz.eu
 [facebook]: https://www.facebook.com/galaz.zoltan
 [instagram]: https://www.instagram.com/zoltangalaz
 [linkedin]: https://www.linkedin.com/in/zoltan-galaz
@@ -70,8 +70,8 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 [researchgate]: https://www.researchgate.net/profile/Zoltan_Galaz
 [orcid]: https://orcid.org/0000-0002-8978-351X
 
-[cv]: http://zoltan.galaz.eu/media/zoltan_galaz_cv_en.pdf
-[selected_publications]: http://zoltan.galaz.eu/media/zoltan_galaz_publications_en.pdf
+[cv]: https://www.zoltan.galaz.eu/media/zoltan_galaz_cv_en.pdf
+[selected_publications]: https://www.zoltan.galaz.eu/media/zoltan_galaz_publications_en.pdf
 
 [inventurist_website]: https://www.inventurist.ai
 [bdalab_website]: https://bdalab.utko.feec.vutbr.cz
