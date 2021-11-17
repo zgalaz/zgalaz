@@ -22,8 +22,8 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 ---
 
 ### Let me present you my work:
-- 💪 I'm an AI engineer and data scientist at [Inventurist][inventurist_website]
-- 🎓 I'm a leading researcher at [Brain Diseases Analysis Laboratory][bdalab_website]
+- 💪 I'm an AI engineer and software developer at [Inventurist][inventurist_website]
+- 🎓 I'm a leading researcher in data science at [Brain Diseases Analysis Laboratory][bdalab_website]
 - 🌱 I'm a co-founder of [ACAI.AI][acai_website]
 
 ### My programming workbench:
