@@ -40,7 +40,7 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 [<img align="left" alt="Numpy" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" />][numpy_website]
 [<img align="left" alt="Pandas" height="32px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" />][pandas_website]
 [<img align="left" alt="Scipy" height="28px" src="https://www.fullstackpython.com/img/logos/scipy.png" />][scipy_website]
-[<img align="left" alt="Sklearn" height="34px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo.png" />][sklearn_website]
+[<img align="left" alt="Sklearn" height="28px" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" />][sklearn_website]
 [<img align="left" alt="Spark" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/spark.svg" />][spark_website]
 [<img align="left" alt="Tensorflow" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" />][tensorflow_website]
 [<img align="left" alt="Keras" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" />][keras_website]
