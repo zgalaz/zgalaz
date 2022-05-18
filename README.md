@@ -46,21 +46,6 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 [<img align="left" alt="Elasticsearch" height="28px" src="https://iconape.com/wp-content/files/op/370830/svg/370830.svg" />][elasticsearch_website]
 [<img align="left" alt="Jupyter" height="32px" src="https://iconape.com/wp-content/files/si/370990/svg/370990.svg" />][jupyter_website]
 
-<br />
-
----
-
-### And finally, some nice photos to enjoy:
-<details>
-  <summary> Photo from the trip to "Košice!</summary>
-  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_kosice.jpg?raw=true" alt="Wonderful time at Kosice">
-</details>
-<details>
-  <summary> Photo from the hike to "Batizovské Pleso"</summary>
-  <img src="https://github.com/zgalaz/zgalaz/blob/master/banner/trip_to_batizovske_pleso.jpg?raw=true" alt="Wonderful time at Kosice">
-</details>
-
-
 [website]: https://www.zoltan.galaz.eu
 [facebook]: https://www.facebook.com/galaz.zoltan
 [instagram]: https://www.instagram.com/zoltangalaz
