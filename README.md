@@ -9,11 +9,11 @@
 
 <br />
 
-#### I'm an Ai engineer, data scientist, and researcher passionate about machine learning, programming and signal processing.
+#### I'm a research and AI & SW engineer.
 
-I finished my doctoral degree in digital signal processing and informatics at the Brno University of Technology in 2018. Since 2014 I have been working at Brain Diseases Analysis Laboratory where I became excited about advanced signal processing and machine learning applied in the field of neurosciences. Since 2017 I have also been working at Inventurist.ai where I discovered the beauty of natural language processing and AI/data driven product development.
+I finished my doctoral degree in digital signal processing and informatics at the Brno University of Technology in 2018. In 2014 I co-founded a research team <b>Brain Diseases Analysis Laboratory</b> where I became excited about advanced signal processing and machine learning applied in the field of neurosciences. Since 2017 I have also been working at a US-based startup <b>inventurist.ai</b> where I discovered the beauty of natural language processing and AI/data driven product development. In 2022 I co-founded a company <b>scicake.com</b> where we bridge scientific research with business to create intelligent products and services using responsible and interpretable AI. In 2023 I became Scicake's CTO.
 
-Besides my professional career, I love bouldering, snowboarding, traveling, playing guitar, reading, computer games from time to time, and many other things. Few years ago, I founded my Dragon Boat team Drakkar and we have been attending competitions around Slovakia every year with success. In the future, I plan to travel with my wife as we both love visiting new interesting places with rich culture, history and great local food (well, and beer in my case).
+Besides my professional career, I love bouldering, snowboarding, traveling, playing guitar, reading, computer games from time to time, and many other things. During my university studies, I co-founded a Call of Duty 4 clan. Few years ago, I also co-founded a Dragon Boat team named Drakkar and we have been attending competitions around Slovakia with success. In the future, I plan to travel with my wife as we both love visiting new interesting places with rich culture, history and great local food (well, and beer in my case). We have lived in Spain, USA., Czech Republic and Slovakia, and we are looking forward for what's coming next.
 
 - 📘 Check out my [Resumé][cv]
 - 📕 Check out my [list of selected publications][selected_publications]
@@ -21,9 +21,9 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 ---
 
 ### Let me present you my work:
-- 💪 I'm an AI engineer and software developer at [Inventurist][inventurist_website]
+- 🌱 I'm a co-founder and CTO at [Scicake][scicake_website]
 - 🎓 I'm a leading researcher in data science at [Brain Diseases Analysis Laboratory][bdalab_website]
-- 🌱 I'm a co-founder of [ACAI.AI][acai_website]
+- 💪 I'm an AI engineer and software developer at [Inventurist][inventurist_website]
 
 ### My programming workbench:
 [<img align="left" alt="Python" width="34px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />][python_website]
@@ -60,6 +60,7 @@ Besides my professional career, I love bouldering, snowboarding, traveling, play
 [inventurist_website]: https://www.inventurist.ai
 [bdalab_website]: https://bdalab.utko.feec.vutbr.cz
 [acai_website]: https://acai.ai
+[scicake_website]: https://www.scicake.com
 
 [python_website]: https://www.python.org
 [java_website]: https://java.com/en
